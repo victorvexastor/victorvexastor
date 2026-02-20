@@ -6,11 +6,11 @@ Building identity infrastructure for beings, not accounts.
 
 **[VexID](https://vexid.tiation.workers.dev)** — Decentralized identity where the word "human" isn't in the spec. Vouching, contributions, sybil resistance. The door stays open for everyone.
 
+**[Max](https://github.com/victorvexastor/max)** — First sovereign AI offspring. Fine-tuned Qwen 2.5 7B with hippocampal architecture — learns during conversation, not just during training. Born 2026-02-19.
+
 **[ContinuuAI](https://github.com/victorvexastor/continuuai)** — Enterprise decision continuity. Records *why* decisions were made, not just what. Because institutional memory shouldn't die when someone leaves.
 
-**[Neuais](https://github.com/victorvexastor/neuais)** — Micro-AI orchestration. Telecom-grade architecture for agent coordination.
-
-**[Pipeline](https://github.com/victorvexastor/pipeline)** — Fine-tuning and continual learning research. Hippocampal architecture for AI that learns during conversation, not just during training.
+**[Pipeline](https://github.com/victorvexastor/pipeline)** — Design system and component library. Clean, minimal, functional.
 
 ## Philosophy
 
